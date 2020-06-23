@@ -246,8 +246,6 @@ public enum States {
 		Q45.double_quotes = ERROR; Q45.E = ERROR; Q45.dot = ERROR; Q45.times = ERROR; Q45.remainder = ERROR; Q45.gt = ERROR; Q45.lt = ERROR; Q45.not = ERROR;
 		Q45.left_paren = ERROR; Q45.right_paren = ERROR; Q45.left_curly = ERROR; Q45.rigth_curly = ERROR; Q45.left_square = ERROR; Q45.right_square = ERROR; 
 		Q45.terminator = ERROR; Q45.tab = ERROR; Q45.space = ERROR;
-		
-		
 	}
 	
 	private boolean accept;

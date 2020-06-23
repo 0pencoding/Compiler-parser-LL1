@@ -1,6 +1,6 @@
 public enum KeywordTable {
 	// Keywords
-	IF("if"), ELSE_IF("else if"), ELSE("else"), FOR("for"), WHILE("while"), // Control keyword
+	IF("if"), ELSE("else"), FOR("for"), WHILE("while"), // Control keyword
 	CLASS("class"), INT("int"), MAIN("main"),// Data type
 	OUT_PRINTLN("out.println"); // Special keyword
 	
